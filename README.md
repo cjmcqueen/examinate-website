@@ -30,3 +30,7 @@ This site is pre-configured with Google SEO best practices using a 100% free sta
 - **Site Kit by Google:** Native integration with Search Console and Google Analytics.
 - **Yoast SEO:** Manages XML sitemaps, meta tags, and Open Graph data.
 - **W3 Total Cache:** Caching for optimal Core Web Vitals (LCP) performance.
+
+## Agent Skills
+This repository utilizes AI Agent Skills to ensure code quality and adherence to the latest WordPress standards.
+- **`wordpress-block-theming` (Automattic):** We have installed the official Automattic skill for Block Theming and Full Site Editing (FSE). This skill ensures that any agents working on this repository use the latest native WordPress 7+ features rather than outdated legacy templates.

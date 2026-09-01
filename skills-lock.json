@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "wordpress-block-theming": {
+      "source": "automattic/wordpress-agent-skills",
+      "sourceType": "github",
+      "skillPath": "claude-cowork/wp-site-creator/skills/wordpress-block-theming/SKILL.md",
+      "computedHash": "d9b1952864a27c634968429b384383d03f9a04efa3e56ba547ee9cb441cb374a"
+    }
+  }
+}
